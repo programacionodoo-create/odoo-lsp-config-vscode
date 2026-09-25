@@ -1,0 +1,9 @@
+[[config]]
+name = "main"
+odoo_path = "${userHome}/odoo"
+python_path = "${userHome}/dev/venv-odoo-18/bin/python"
+addons_paths = [
+    "${workspaceFolder}/enterprise",
+    "${workspaceFolder}/oca/contract",
+    "${workspaceFolder}/addons"
+]

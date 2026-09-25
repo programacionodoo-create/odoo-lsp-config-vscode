@@ -1,0 +1,14 @@
+{
+  "venvPath": "${HOME}/dev",
+  "venv": "venv-odoo-18",
+  "extraPaths": [
+    "${HOME}/odoo",
+    "${HOME}/odoo/odoo",
+    "${HOME}/odoo/odoo/addons",
+    "${HOME}/odoo/addons",
+    "./enterprise",
+    "./oca/contract",
+    "./addons"
+  ],
+  "typeCheckingMode": "off"
+}
