@@ -1,0 +1,15 @@
+{
+  "venvPath": "C:/Users/TuUsuario/dev",
+  "venv": "venv-odoo-18",
+  "extraPaths": [
+    "C:/Users/TuUsuario/odoo",
+    "C:/Users/TuUsuario/odoo/odoo",
+    "C:/Users/TuUsuario/odoo/odoo/addons",
+    "C:/Users/TuUsuario/odoo/addons",
+    "./enterprise",
+    "./oca/contract",
+    "./addons"
+  ],
+  "typeCheckingMode": "off"
+}
+
